@@ -16,12 +16,12 @@ I did my PhD at [Inria Lille ](https://www.inria.fr/en/centre-inria-lille-nord-e
 
 
 **Brief Biography:**   
-\* **04/2020 - Now:** Research associate at the University of Luxembourg (SerVal team);   
-\* **10/2016 - 12/2019:** Ph.D at the University of Lille, France (Spirals team - Inria);   
-\* **09/2011 - 07/2016:** Engineering and Masters degree from École nationale Supérieure d'Informatique (ESI), Algeria.  
+*  **04/2020 - Now:** Research associate at the University of Luxembourg (SerVal team);   
+*  **10/2016 - 12/2019:** Ph.D at the University of Lille, France (Spirals team - Inria);   
+*  **09/2011 - 07/2016:** Engineering and Masters degree from École nationale Supérieure d'Informatique (ESI), Algeria.  
 
 **Narrative CV:**   
-During my 5-year engineering degree in computer science, I discovered my passion for software engineering and decided to specialise in it. 
+During my computer science degree, I discovered my passion for software engineering and decided to specialise in it. 
 I did an internship at Inria that initiated me to the research on software code smells. 
 By the end of this internship, I was awarded a CORDIS fellowship from Inria to do a [PhD](https://tel.archives-ouvertes.fr/tel-02414928/file/Validated-Thesis.pdf) on mobile-specific code smells. 
 I dedicated my PhD to the identification and analysis of emerging code smells that can impact the experience of mobile app users. 
