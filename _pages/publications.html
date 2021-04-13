@@ -1,0 +1,86 @@
+---
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+<script type="text/javascript"
+        src="{{ base_path }}/assets/js/pcooksey/bibtex.js">
+</script>
+
+<p style="font-size: 80%;"><em>Several papers are available for download. 
+    By following these links you agree to respect the copyrights of the papers. 
+    The papers obtained from this Web page are included by the contributing authors as a means to ensure timely dissemination of scholarly 
+    and technical work on a non-commercial basis. 
+    Copyright and all rights therein are maintained by the authors or by other copyright holders, 
+    notwithstanding that they have offered their works here electronically. 
+    It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author's copyright. 
+    These works may not be reposted without the explicit permission of the copyright holder.</em></p>
+
+<style>
+#bibtex_errors { margin-top:10px; color: red;}
+.well pre { margin: 0px 0px 0px 0px; font-size: 80%; }
+</style>
+
+<div class="bibtex_structure">
+  <div class="sections bibtextypekey">
+    <div class="section @article">
+        <h2>Journals</h2>
+        <div class="sort year" extra="DESC number">
+          <div class="templates"></div>
+        </div>
+      </div>
+    <div class="section @inproceedings">
+      <h2>International Conference &amp; Workshop Papers</h2>
+      <div class="sort year" extra="DESC number">
+        <div class="templates"></div>
+      </div>
+    </div>
+    <div class="section @phdthesis">
+      <h2>Thesis</h2>
+      <div class="sort year" extra="DESC number">
+        <div class="templates"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<bibtex src="{{ base_path }}/bibtex/data.bib" />
+
+<div id="bibtex_display">
+  <div class="if bibtex_template" style="display: none;">
+      <ul>
+      <li class="bibtexVar" id="bib+BIBTEXKEY+" extra="BIBTEXKEY">
+        <span class="title" style="font-weight: bold;"></span>.
+        <div><span class="author"></span></div>
+        <div>
+          <span class="if journal"><em><span class="journal"></span></em>,</span>
+          <span class="if booktitle">In <em><span class="booktitle"></span><span class="if series"><em> (<span class="series"></span>)</em>,</span></span>
+          <span class="if editor"><span class="editor"></span> (editors),</span>
+          <span class="if publisher"><em><span class="publisher"></span></em>,</span>
+          <span class="if !journal number">Technical report <span class="number"></span>,</span>
+          <span class="if institution"><span class="institution"></span>,</span>
+          <span class="if address"><span class="address"></span>,</span>
+          <span class="if volume"><span class="volume"></span>,</span>
+          <span class="if journal number">(<span class="number"></span>),</span>
+          <span class="if pages"> pages <span class="pages"></span>,</span>
+          <span class="if month"><span class="month"></span>,</span>
+          <span class="if year"><span class="year"></span>.</span>
+          <span class="if note"> <span class="note"></span>.</span>
+          <span class="if url"><a class="url" target="_blank">(pdf)</a></span>
+          <a class="bibtexVar" role="button" href="#bib+BIBTEXKEY+"
+             onclick="$('#bibraw+BIBTEXKEY+').toggle();"
+             extra="BIBTEXKEY">[bib]</a>
+        </div>
+        <div class="bibtexVar" style="display: none;"
+             id="bibraw+BIBTEXKEY+" extra="BIBTEXKEY">
+  		  <div class="well" >
+  		    <pre><span class="bibtexraw noread"></span></pre>
+  		  </div>
+  	  </div>
+        <div style="display:none"><span class="bibtextype"></span></div>
+        <div style="display:none"><span class="if topic"><span class="topic"></span></span></div>
+      </li>
+          </ul>
+    </div>
+</div>
