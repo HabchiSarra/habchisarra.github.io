@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**About me:** I am curently doing a PostDoc at the Interdisciplinary Center for Security, Reliability and Trust ([SnT](https://wwwfr.uni.lu/snt)) - University of Luxembourg. 
+**About me:** I am currently doing a PostDoc at the Interdisciplinary Center for Security, Reliability and Trust ([SnT](https://wwwfr.uni.lu/snt)) - University of Luxembourg. 
 My research interests lie primarily in the area of software quality and reliability. 
 This includes: _test flakiness_, _GUI testing_, _test smells_, and _code smells_. 
 I did my PhD at [Inria Lille ](https://www.inria.fr/en/centre-inria-lille-nord-europe) on the identification and tracking of mobile-specific code smells.
