@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sarra Habchi"
   avatar           : "profile.png"
-  bio              : "Research associate"
+  bio              : "Research Associate"
   location         : "Luxembourg"
   employer         :
   pubmed           : 
@@ -184,9 +184,9 @@ collections:
   #service:
   #  output: true
   #  permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  #talks:
+  #  output: true
+  #  permalink: /:collection/:path/
 
 
 # Defaults

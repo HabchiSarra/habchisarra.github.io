@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello world!"
+title: "Get to know me!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,16 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-**About me:** I am currently doing a PostDoc at the Interdisciplinary Center for Security, Reliability and Trust ([SnT](https://wwwfr.uni.lu/snt)) - University of Luxembourg. 
-My research interests lie primarily in the area of software quality and reliability. 
+
+**Bio:** I am currently a Research Associate at the Interdisciplinary Center for Security, Reliability and Trust ([SnT](https://wwwfr.uni.lu/snt)) - University of Luxembourg. My research interests lie primarily in the area of software quality and reliability. 
 This includes: _test flakiness_, _GUI testing_, _test smells_, and _code smells_. 
 I did my PhD at [Inria Lille ](https://www.inria.fr/en/centre-inria-lille-nord-europe) on the identification and tracking of mobile-specific code smells.
 
 
 
-**Brief Biography:**   
-*  **04/2020 - Now:** Research associate at the University of Luxembourg (SerVal team);   
-*  **10/2016 - 12/2019:** Ph.D at the University of Lille, France (Spirals team - Inria);   
+**Brief Biography:**  
+*  **09/2021 - Now:** Lecturer at the University of Luxembourg;
+*  **04/2020 - Now:** Research Associate at the Interdisciplinary Center for Security, Reliability and Trust (SerVal team);   
+*  **10/2016 - 12/2019:** PhD at the University of Lille, France (Spirals team - Inria);   
 *  **09/2011 - 07/2016:** Engineering and Masters degree from École nationale Supérieure d'Informatique (ESI), Algeria.  
 
 **Narrative CV:**   
