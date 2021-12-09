@@ -9,9 +9,14 @@ redirect_from:
 ---
 
 
+**News:** 
+* Our paper _A Qualitative Study on the Sources, Impacts, and Mitigation Strategies
+  of Flaky Tests_ was accepted at [ICST 2022](https://icst2022.vrain.upv.es/). The preprint will be available soon.
+
+
 **Bio:** I am currently a Research Associate at the Interdisciplinary Center for Security, Reliability and Trust ([SnT](https://wwwfr.uni.lu/snt)) - University of Luxembourg. My research interests lie primarily in the area of software quality and reliability. 
 This includes: _test flakiness_, _GUI testing_, _test smells_, and _code smells_. 
-I did my PhD at [Inria Lille ](https://www.inria.fr/en/centre-inria-lille-nord-europe) on the identification and tracking of mobile-specific code smells.
+I did my PhD at [Inria Lille](https://www.inria.fr/en/centre-inria-lille-nord-europe) on the identification and tracking of mobile-specific code smells.
 
 
 
