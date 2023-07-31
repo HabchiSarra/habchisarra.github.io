@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+
+## Keynote at the _[Consortium for Software Engineering Research 2023 Spring Meeting](https://www.cser.ca/2023s/)_ 
+**Abstract:**  Sarra Habchi is a research and development scientist at Ubisoft. She received her PhD in computer science from Inria with a thesis on the identification and tracking of mobile-specific code smells, a work that was awarded the accessit of Gilles Kahn 2020. Her research interests lie primarily in the area of software quality and reliability, with an emphasis on software testing, continuous integration systems, and automation tools. Sarra is currently leading the software engineering research group at Ubisoft La Forge, which focuses on quality engineering challenges in the video game industry.
+
 ## Presentation at _[La journée 2021 du groupe de travail Vélocité Logicielle](https://gt-vl.github.io/journees2021.html)_ 
 <style>
   .responsive-wrap iframe {
