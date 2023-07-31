@@ -14,7 +14,7 @@ author_profile: true
 --->
 
 ## Program committee of international conferences
-*  Mining Software Repositories Conference ([MSR 2022](https://conf.researchr.org/track/msr-2022/msr-2022-technical-papers), [MSR 2023](https://conf.researchr.org/track/msr-2023/msr-2023-technical-papers?)).
+*  International Conference on Mining Software Repositories Conference ([MSR 2022](https://conf.researchr.org/track/msr-2022/msr-2022-technical-papers), [MSR 2023](https://conf.researchr.org/track/msr-2023/msr-2023-technical-papers?)).
 * International Conference on Software Testing, Verification and Validation ([ICST Poster Track 2022](https://icst2022.vrain.upv.es/track/icst-2022-posters), [ICST 2023](https://conf.researchr.org/track/icst-2023/icst-2023-papers?)).
 *  International Conference on Software Analysis, Evolution and Reengineering ([SANER 2023](https://saner2023.must.edu.mo/programCommittee), [SANER 2024](https://conf.researchr.org/track/saner-2024/saner-2024-papers)).
 * International Conference on Automated Software Engineering ([ASE NIER Track 2023](https://conf.researchr.org/track/ase-2023/ase-2023-nier-track)).
