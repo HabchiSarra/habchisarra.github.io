@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Sarra Habchi"
   avatar           : "profile.png"
-  bio              : "Research Associate"
-  location         : "Luxembourg"
+  bio              : "R&D Scientist"
+  location         : "Montreal"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=w0dlVlwAAAAJ&hl=en"
-  email            : "sarra.habchi(at)uni.lu"
+  email            : "sarra.habchi(at)ubisoft.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
