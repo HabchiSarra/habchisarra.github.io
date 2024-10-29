@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "A selection of talks and presentations"
+title: "A selection of invited talks and keynotes"
 permalink: /talks/
 author_profile: true
 ---
