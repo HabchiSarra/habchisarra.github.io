@@ -17,7 +17,7 @@ redirect_from:
 
 
 
-**Brief Biography:**  
+**Career Milestones:**  
 *  **04/2022 - Now:** Research and Development Scientist at Ubisoft. 
 *  **04/2020 - 03/2022:** Research Associate at the Interdisciplinary Center for Security, Reliability and Trust (SerVal team).   
 *  **09/2021 - 01/2022:** Lecturer at the University of Luxembourg.
