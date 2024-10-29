@@ -4,16 +4,16 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: /talks/      
     
   - title: "Service"
     url: /service/
 
   - title: "Distinctions"
     url: /distinctions/
+
+  - title: "Teaching"
+    url: /teaching/  
         
   # - title: "Blog Posts"
   #   url: /year-archive/
