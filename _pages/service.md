@@ -5,8 +5,9 @@ permalink: /service/
 author_profile: true
 ---
 {% include base_path %}
+I am actively involved in advancing software engineering through conference leadership, program committee participation, and journal reviews.
 
-## Chairing Experience
+## Chairing and Leadership Roles
 <!-- * Session chair at the International Conference on Software Maintenance and Evolution ([ICSME 2021](https://icsme2021.github.io/program/Schedule.html#dependencies)). -->
 
 *  Co-chair of the _Industry Track_ at the International Conference on Mining Software Repositories ([MSR 2025](https://2025.msrconf.org/track/msr-2025-industry-track)).
