@@ -42,10 +42,9 @@ author_profile: true
   }
 </style>
 <div class="responsive-wrap">
-  <!-- this is the embed code provided by Google -->
   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSkArwOnqsw5GDao3wfchSy4FGKEts8aBL5UxxWFaYT9d3Vc8VMBJBgi-WwQulLT9M2baMzai2PFI47/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-  <!-- Google embed ends -->
-</div> -->
+</div> 
+-->
 
 ## Invited talk at KTH Royal Institute of Technology, 2021
 <div class="responsive-wrap">
