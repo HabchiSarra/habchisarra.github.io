@@ -12,9 +12,7 @@ redirect_from:
 **News:** 
 --->
 
-**Bio:** 
- Sarra Habchi is a research and development scientist at Ubisoft [La Forge](https://www.ubisoft.com/en-us/studio/laforge). She received her PhD in computer science from the University of Lille with a thesis on the identification and tracking of mobile-specific code smells. Her research interests lie primarily in the area of software quality and reliability, with an emphasis on software testing, continuous integration systems, and automation tools. Sarra is currently leading the software engineering research group at Ubisoft La Forge, which focuses on quality engineering challenges in the video game industry.
-
+**Bio:**I am an R&D Scientist dedicated to advancing software quality and reliability, with a focus on software testing, continuous integration, and automation. As the leader of the software engineering research group at Ubisoft [La Forge](https://www.ubisoft.com/en-us/studio/laforge), I drive innovation in quality engineering to tackle the unique challenges of the video game industry. I hold a PhD in computer science from the University of Lille, where my research on mobile-specific code smells earned the Gilles Kahn Prize for its impact on mobile app quality. 
 
 
 **Career Milestones:**  
