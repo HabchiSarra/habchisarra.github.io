@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-## Keynote at the _[International Workshop on Games and Software Engineering 2025]([https://conf.researchr.org/info/icpc-2024/keynotes](https://sites.google.com/view/icsegasworkshop2025)_ 
+## Keynote at the _[International Workshop on Games and Software Engineering 2025](https://sites.google.com/view/icsegasworkshop2025)_ 
 **Title: Advances and Opportunities in Game Testing and Triage** 
 <!-- **Abstract:** Video games have grown into the largest entertainment industry, generating over $200 billion in annual revenue. Modern games are not only massive in scale but also highly complex systems, composed of interconnected components such as graphics and rendering systems, AI systems, and physics simulations. This complexity makes building these games a monumental task—and testing them an even greater challenge.
 Today, game testing still heavily relies on manual processes, as automation remains difficult to implement. The interactive and stochastic nature of games, combined with their sheer size and the vast number of configurations to verify, makes automating tests inherently challenging. As a result, manual approaches often struggle to scale with the growing size of games and the rapid pace of development cycles. In addition, developers face overwhelming demands when triaging the thousands of issues uncovered during testing and reported by players, further complicating the process.
