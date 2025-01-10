@@ -12,11 +12,12 @@ redirect_from:
 **News:** 
 --->
 
-**Bio:**I am an R&D Scientist dedicated to advancing software quality and reliability, with a focus on software testing, continuous integration, and automation. As the leader of the software engineering research group at Ubisoft [La Forge](https://www.ubisoft.com/en-us/studio/laforge), I drive innovation in quality engineering to tackle the unique challenges of the video game industry. I hold a PhD in computer science from the University of Lille, where my research on mobile-specific code smells earned the Gilles Kahn Prize for its impact on mobile app quality. 
+**Bio:**I am a Principal R&D Scientist dedicated to advancing software quality and reliability, with a focus on software testing, continuous integration, and automation. As the leader of the software engineering research group at Ubisoft [La Forge](https://www.ubisoft.com/en-us/studio/laforge), I drive innovation in quality engineering to tackle the unique challenges of the video game industry. I hold a PhD in computer science from the University of Lille, where my research on mobile-specific code smells earned the Gilles Kahn Prize for its impact on mobile app quality. 
 
 
 **Career Milestones:**  
-*  **04/2022 - Now:** Research and Development Scientist at Ubisoft. 
+*  **11/2024 - Now:*** Principal Research and Development Scientist at Ubisoft La Forge.
+*  **04/2022 - 10/2024:** Research and Development Scientist at Ubisoft La Forge. 
 *  **04/2020 - 03/2022:** Research Associate at the Interdisciplinary Center for Security, Reliability and Trust (SerVal team).   
 *  **09/2021 - 01/2022:** Lecturer at the University of Luxembourg.
 *  **10/2016 - 12/2019:** PhD at the University of Lille, France (Spirals team - Inria).   
